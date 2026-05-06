@@ -7,8 +7,8 @@
 # Example seller entry - Replace with your actual seller information
 # Format: <seller-account-id>, <seller-type>, <seller-name>, <certification-authority>
 
-# Google AdSense
-google.com, seller-account-id=YOUR_GOOGLE_SELLER_ID, direct
+# Google AdMob
+google.com, pub-5886269363298692, DIRECT, f08c47fec0942fa0
 
 # Facebook/Meta
 facebook.com, seller-account-id=YOUR_META_SELLER_ID, direct
