@@ -2,15 +2,9 @@
 # https://iabtechlab.com/ads-txt/
 #
 # Contact: admin@studioss114-hub.com
-# Effective: 2026-05-06
-
-# Example seller entry - Replace with your actual seller information
-# Format: <seller-account-id>, <seller-type>, <seller-name>, <certification-authority>
+# Effective: 2026-05-12
 
 # Google AdMob
 google.com, pub-5886269363298692, DIRECT, f08c47fec0942fa0
-
-# Facebook/Meta
-facebook.com, seller-account-id=YOUR_META_SELLER_ID, direct
 
 # Add your other authorized sellers below:
